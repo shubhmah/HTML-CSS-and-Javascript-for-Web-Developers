@@ -1,0 +1,32 @@
+#list-1 {
+	text-align: center;
+}
+.nav-item {
+	border-bottom: 1px solid black;
+}
+#navcol-1 {
+	width: 100%;
+}
+.nav-link {
+	color: black;
+}
+h1,h2,h3{
+	text-align: center;
+	margin-top: 10px;
+}
+section {
+	background-color: #A19A9A;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 50px;
+}
+.col-md-4,.col-sm-6 {
+	padding: 0;
+}
+.row {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#link-1 {
+	color: #0000cc;
+}
