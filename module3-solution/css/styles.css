@@ -1,3 +1,6 @@
+.nav-link {
+	text-align: center;
+}
 .nav-item {
 	border-bottom: 1px solid black;
 }
@@ -27,3 +30,4 @@ p {
 	padding-left: 15px;
 	padding-right: 15px;
 }
+
